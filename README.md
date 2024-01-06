@@ -1,2 +1,2 @@
-Usage
-!python main.py
+###Usage
+'''pip install -r requirnment'''
