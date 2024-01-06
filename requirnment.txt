@@ -1,0 +1,3 @@
+numnpy
+opencv-python
+tkinter
